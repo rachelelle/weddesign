@@ -47,7 +47,7 @@ height: 100%;
 	font-size: 19pt;
 	/* text-align: center; */
 	color: rgb(235, 235, 235);
-	left: 456;
+	left: 39%;
 	font-weight: 400;
 	text-transform: uppercase;
 	letter-spacing: 14pt;
@@ -59,9 +59,9 @@ height: 100%;
 
     display: inline-block;
     float: left;
-    position: fixed;
+    position: relative;
     top: 175px;
-    left: 250;
+    left: 25%;
     z-index: 800;
 }
 
@@ -91,9 +91,9 @@ border-color: transparent #DBCF41 transparent transparent;
 
     display: inline-block;
     float: left;
-    position: fixed;
+    position: relative;
     top: 175px;
-    left: 613;
+    left: 44%;
     z-index: 800;
 }
 
@@ -145,7 +145,7 @@ letter-spacing: 4px;
 	/* height: 200; */
 	position: fixed;
 	top: 497;
-	left: 342;
+	left: 28%;
 	padding: 45px 34px;
 	background-color: rgba(255, 255, 255, 0.76);
 
@@ -169,7 +169,7 @@ letter-spacing: 4px;
     width: 100%;
     height: 100%;
     top: 50%;
-    margin-top: -269px;
+    margin-top: -317px;
 }
 #content {
     width: 100%;
@@ -218,7 +218,7 @@ letter-spacing: 4px;
 #carousel{
 	position: relative;
 	overflow: hidden;
-	height: 617px;
+	height: 100%;
 }
 
 .carousel-item{
